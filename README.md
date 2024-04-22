@@ -1,5 +1,6 @@
 # kapil-demo
-ThIs is my git repositroy
-Auther-Kapil Harod
+ThIs is my git Repository
+<br>
+Author-Kapil Harod
 <br>
 
